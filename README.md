@@ -194,33 +194,11 @@ _"Structured chaos produces extraordinary results. Every experiment teaches. Eve
 
 ---
 
-## � Lab Achievements & Trophies
-
-<div align="center">
-
-![Lab Recognition Trophies](https://github-profile-trophy.vercel.app/?username=tsubametaa2nd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)
-
-</div>
-
----
-
 ## 📈 Research Activity & Contribution Timeline
 
 <div align="center">
 
 [![Research Timeline](https://github-readme-activity-graph.vercel.app/graph?username=tsubametaa2nd&theme=tokyo-night&hide_border=true&area=true)](https://github.com/tsubametaa2nd)
-
-</div>
-
----
-
-## 🔗 Knowledge Base & Resources
-
-### Connected Research Projects
-
-- 🚀 [Production Stack](https://github.com/tsubametaa) - Proven technologies in production
-- 📚 [Learning Playbooks](https://github.com/tsubametaa) - Structured learning paths
-- 🔬 [Experimental Repo](https://github.com/tsubametaa) - Raw research & prototypes
 
 </div>
 
