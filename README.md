@@ -160,9 +160,9 @@ _"Structured chaos produces extraordinary results. Every experiment teaches. Eve
 
 <br/>
 
-### � Technology Research Stack
+### 📱 Technology Research Stack
 
-<img src="https://readme-stats-fast.vercel.app/api/top-langs?username=tsubametaa2nd&layout=compact&theme=tokyonight&hide_border=true" alt="Research Tech Arsenal" />
+<img src="https://readme-stats-fast.vercel.app/api/top-langs?username=tsubametaa2nd&layout=compact&theme=tokyonight&hide_border=true" alt="Research Tech" />
 
 <br/>
 
